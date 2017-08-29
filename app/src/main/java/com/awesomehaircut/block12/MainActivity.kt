@@ -13,9 +13,9 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
 
     // the 2 buttons:
     // define in the activity_main.xml
-    internal lateinit var buttonBlue: Button
+    private lateinit var buttonBlue: Button
     //defined in this file
-    internal lateinit var buttonPink: Button
+    internal lateinit var buttonPink: Button // What doesn't Java need a late init thing??
 
 
     override fun onCreate(savedInstanceState: Bundle?) {
