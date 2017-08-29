@@ -1,2 +1,2 @@
 # Block12
-Another Coursera java app
+Another Coursera Android app rewtitten in Kotlin
